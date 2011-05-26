@@ -1,0 +1,16 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+#
+# ----------------------------------------------------------------------------
+# "THE BEER-WARE LICENSE" (Nicolas V custom edition):
+# Nicolas V wrote this file. As long as you retain this notice you
+# can do whatever you want with this stuff. But please say it's me that did it,
+# because I seek for eternal glory. If we meet some day, and you think
+# this stuff is funny, you can buy me a beer in return.
+# ----------------------------------------------------------------------------
+#
+
+import nobrainfuck_main
+
+if __name__ == "__main__":
+    nobrainfuck_main.main()
